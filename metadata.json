@@ -1,0 +1,6 @@
+{
+  "name": "EduStore - Toko Perlengkapan Sekolah",
+  "description": "Aplikasi e-commerce lengkap untuk perlengkapan sekolah dengan fitur Admin Dashboard, Cart, Checkout, dan Cetak Invoice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
