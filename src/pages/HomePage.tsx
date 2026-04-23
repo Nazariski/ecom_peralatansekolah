@@ -62,7 +62,7 @@ export default function HomePage() {
           </motion.div>
         </div>
         <div className="absolute top-0 right-0 w-1/2 h-full hidden lg:block opacity-20">
-          <img src="https://picsum.photos/seed/school/800/800" alt="Hero" className="object-cover w-full h-full" referrerPolicy="no-referrer" />
+          <img src="belajar.png" alt="Hero" className="object-cover w-full h-full" referrerPolicy="no-referrer" />
         </div>
       </section>
 
