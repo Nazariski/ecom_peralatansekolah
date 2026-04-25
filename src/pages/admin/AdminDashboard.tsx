@@ -120,11 +120,11 @@ export default function AdminDashboard() {
           <div className="space-y-4 relative z-10">
             <div className="p-4 bg-white/5 rounded-xl border border-white/10 flex gap-4">
               <div className="w-2 h-2 mt-2 bg-blue-400 rounded-full animate-pulse" />
-              <p className="text-sm text-white/70 font-medium">Server database EduStore berjalan dengan stabil.</p>
+              <p className="text-sm text-white/70 font-medium">Jangan Lupa Selalu Periksa Transaksi Yang Masuk.</p>
             </div>
             <div className="p-4 bg-white/5 rounded-xl border border-white/10 flex gap-4">
               <div className="w-2 h-2 mt-2 bg-emerald-400 rounded-full animate-pulse" />
-              <p className="text-sm text-white/70 font-medium">Backup otomatis harian berhasil diselesaikan.</p>
+              <p className="text-sm text-white/70 font-medium">Say Hamdallah Everytime</p>
             </div>
           </div>
         </div>

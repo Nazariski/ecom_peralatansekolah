@@ -92,21 +92,6 @@ export default function LoginPage({ onLogin }: { onLogin: (user: any) => void })
           Belum punya akun? <Link to="/register" className="text-blue-600 hover:underline">Daftar disini</Link>
         </p>
       </div>
-      
-      {/* Test credentials box */}
-      <div className="mt-8 p-4 bg-yellow-50 border border-yellow-100 rounded-xl">
-        <h4 className="text-xs font-bold text-yellow-800 uppercase mb-2">Akun Demo:</h4>
-        <div className="grid grid-cols-2 gap-4 text-xs">
-          <div>
-            <p className="font-bold text-yellow-900">Admin:</p>
-            <p>admin@edustore.com / admin123</p>
-          </div>
-          <div>
-            <p className="font-bold text-yellow-900">User:</p>
-            <p>budi@gmail.com / user123</p>
-          </div>
-        </div>
-      </div>
     </div>
   );
 }
